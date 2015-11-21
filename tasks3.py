@@ -2,7 +2,7 @@ import string
 
 alphabet = string.ascii_lowercase
 
-# Task 3.1
+# TASK 3.1
 alphabet_list = [letter for letter in alphabet]
 print(alphabet_list)
 
